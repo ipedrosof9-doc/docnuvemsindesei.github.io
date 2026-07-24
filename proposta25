@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Docnuvem + SINDESEI-DF</title>
+<!--
+ASSUNTO (escolha 1):
+  A) Exclusivo para associados SINDESEI-DF: 25% no Docnuvem
+  B) Voce faz parte de um grupo de 30. Por isso, 25%.
+PRE-HEADER (texto de previa):
+  Parceria oficial SINDESEI-DF + Docnuvem. Beneficio reservado aos associados.
+-->
+</head>
+<body style="margin:0; padding:0; background-color:#eef1f6;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#eef1f6;">
+<tr><td align="center" style="padding:24px 12px;">
+<table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px; width:100%; background-color:#ffffff; border-radius:12px; overflow:hidden; font-family:Arial, Helvetica, sans-serif;">
+
+  <!-- FAIXA SUPERIOR -->
+  <tr><td style="background-color:#0a1f5c; padding:20px 32px;" align="center">
+    <span style="color:#7fa8ff; font-size:12px; letter-spacing:2px; font-weight:bold; text-transform:uppercase;">Parceria Oficial</span>
+    <div style="color:#ffffff; font-size:20px; font-weight:bold; margin-top:6px;">Docnuvem &nbsp;+&nbsp; SINDESEI-DF</div>
+  </td></tr>
+
+  <!-- SELO EXCLUSIVIDADE -->
+  <tr><td style="padding:28px 32px 8px 32px;" align="center">
+    <span style="display:inline-block; background-color:#e8efff; color:#0a1f5c; font-size:12px; font-weight:bold; letter-spacing:1px; text-transform:uppercase; padding:8px 16px; border-radius:20px;">Benefício exclusivo para associados</span>
+  </td></tr>
+
+  <!-- HEADLINE -->
+  <tr><td style="padding:12px 32px 0 32px;" align="center">
+    <h1 style="margin:0; color:#0a1f5c; font-size:26px; line-height:1.25; font-weight:bold;">Você está em um grupo de apenas 30 empresas. E preparamos algo à altura.</h1>
+  </td></tr>
+
+  <!-- LEAD -->
+  <tr><td style="padding:18px 32px 0 32px;">
+    <p style="margin:0; color:#3d4453; font-size:16px; line-height:1.6;">
+      Prezado associado,<br><br>
+      O SINDESEI-DF firmou uma parceria com o <strong>Docnuvem</strong>, a plataforma que centraliza documentos, processos e assinaturas digitais em um único lugar. E, por você fazer parte do nosso círculo de associados, garantimos uma condição que <strong>não está disponível para o restante do mercado</strong>:
+    </p>
+  </td></tr>
+
+  <!-- OFERTA -->
+  <tr><td style="padding:20px 32px 0 32px;" align="center">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#0a1f5c; border-radius:10px;">
+      <tr><td align="center" style="padding:22px;">
+        <div style="color:#7fa8ff; font-size:13px; letter-spacing:1px; text-transform:uppercase; font-weight:bold;">Sua condição de associado</div>
+        <div style="color:#ffffff; font-size:38px; font-weight:bold; line-height:1.1; margin:6px 0;">25% de desconto</div>
+        <div style="color:#c7d4f0; font-size:14px;">na solução Docnuvem &mdash; reservado aos associados SINDESEI-DF</div>
+      </td></tr>
+    </table>
+  </td></tr>
+
+  <!-- POR QUE IMPORTA -->
+  <tr><td style="padding:28px 32px 0 32px;">
+    <p style="margin:0 0 14px 0; color:#0a1f5c; font-size:18px; font-weight:bold;">Por que o Docnuvem é relevante para a sua empresa</p>
+    <p style="margin:0; color:#3d4453; font-size:15px; line-height:1.6;">
+      Documentos espalhados entre drive, papel e servidor. Prazos que vencem sem aviso. Assinaturas que levam dias. Processos que dependem de uma pessoa específica. O Docnuvem resolve tudo isso substituindo <strong>múltiplas ferramentas por uma única plataforma integrada</strong>.
+    </p>
+  </td></tr>
+
+  <!-- 5 EM 1 -->
+  <tr><td style="padding:20px 32px 0 32px;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+        <td valign="top" width="50%" style="padding:0 8px 14px 0;">
+          <div style="color:#0a1f5c; font-size:15px; font-weight:bold;">Drive Documental</div>
+          <div style="color:#5a6172; font-size:13px; line-height:1.5;">Guarda na nuvem com backup diário e criptografia</div>
+        </td>
+        <td valign="top" width="50%" style="padding:0 0 14px 8px;">
+          <div style="color:#0a1f5c; font-size:15px; font-weight:bold;">Assinador Digital</div>
+          <div style="color:#5a6172; font-size:13px; line-height:1.5;">Fluxos de assinatura com validade jurídica</div>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" width="50%" style="padding:0 8px 14px 0;">
+          <div style="color:#0a1f5c; font-size:15px; font-weight:bold;">Documentos e Processos</div>
+          <div style="color:#5a6172; font-size:13px; line-height:1.5;">Preenchimento automático e controle de vencimentos</div>
+        </td>
+        <td valign="top" width="50%" style="padding:0 0 14px 8px;">
+          <div style="color:#0a1f5c; font-size:15px; font-weight:bold;">Gestão de Tarefas</div>
+          <div style="color:#5a6172; font-size:13px; line-height:1.5;">Projetos, prazos, responsáveis e aprovações</div>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" width="50%" style="padding:0 8px 0 0;">
+          <div style="color:#0a1f5c; font-size:15px; font-weight:bold;">IA Documental</div>
+          <div style="color:#5a6172; font-size:13px; line-height:1.5;">Automação inteligente que atua como seu braço direito</div>
+        </td>
+        <td valign="top" width="50%" style="padding:0 0 0 8px;"></td>
+      </tr>
+    </table>
+  </td></tr>
+
+  <!-- CTA -->
+  <tr><td style="padding:30px 32px 0 32px;" align="center">
+    <p style="margin:0 0 18px 0; color:#0a1f5c; font-size:17px; line-height:1.5; font-weight:bold;">Que tal uma rápida conversa de 15 minutos para lhe apresentar como o Docnuvem pode automatizar o seu negócio?</p>
+    <table role="presentation" cellpadding="0" cellspacing="0"><tr>
+      <td align="center" style="background-color:#1e5cff; border-radius:8px;">
+        <a href="https://w.app/docnuvem" style="display:inline-block; padding:16px 34px; color:#ffffff; font-size:16px; font-weight:bold; text-decoration:none;">Falar no WhatsApp (15 min) &rarr;</a>
+      </td>
+    </tr></table>
+    <p style="margin:14px 0 0 0; color:#8a90a0; font-size:12px;">Condição válida enquanto durar a parceria SINDESEI-DF + Docnuvem.</p>
+  </td></tr>
+
+  <!-- RODAPE -->
+  <tr><td style="padding:30px 32px; border-top:1px solid #e6e9f0; margin-top:20px;">
+    <p style="margin:0; color:#8a90a0; font-size:12px; line-height:1.6;">
+      Você recebe este e-mail por ser associado do SINDESEI-DF &mdash; Sindicato das Empresas de Informática do Distrito Federal.<br>
+      SEPN 712/912 &mdash; Ed. José Roberto Tadros, Asa Norte, Brasília-DF &middot; (61) 3038-7532 &middot; sindesei@sindeseidf.com.br<br>
+      <a href="[LINK DESCADASTRO]" style="color:#8a90a0;">Descadastrar</a>
+    </p>
+  </td></tr>
+
+</table>
+</td></tr>
+</table>
+</body>
+</html>
